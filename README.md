@@ -1,9 +1,9 @@
-# NAME=MAHIMA SINGH
-# REGESTRATION NO=25BAI10292
-# SUBJECT=JAVA
-# BRANCH=ARTIFICAL INTELLIGENCE AND MACHINE LEARNING
-
-
+# Student Details
+Name:Mahima Singh  
+Restration Number:25bai10292  
+Branch:Computer science in AIML  
+Unvisty:VIT Bhopal  
+Course Code:CSA2001-Foundation in AI and ML  
 
 # BANK-MANAGEMENT-SYSTEM
 The Bank Management System is a Core Java-based console application for managing basic banking operations. It allows users to create accounts, deposit and withdraw money, check balances, and transfer money. The system also provides account searching, updating, and transaction history features. 
