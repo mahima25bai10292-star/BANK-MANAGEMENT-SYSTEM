@@ -1,3 +1,10 @@
+NAME=MAHIMA SINGH
+REGESTRATION NO=25BAI10292
+SUBJECT=JAVA
+BRANCH=ARTIFICAL INTELLIGENCE AND MACHINE LEARNING
+
+
+
 # BANK-MANAGEMENT-SYSTEM
 The Bank Management System is a Core Java-based console application for managing basic banking operations. It allows users to create accounts, deposit and withdraw money, check balances, and transfer money. The system also provides account searching, updating, and transaction history features. 
 # Bank Management System
@@ -197,12 +204,4 @@ The project can be extended in the future by adding:
 * Graphical User Interface (GUI)
 * Online banking features
 
-## Author
 
-**Your Name**
-
-B.Tech Computer Science Engineering
-
-## License
-
-This project is created for **educational and academic purposes**.
